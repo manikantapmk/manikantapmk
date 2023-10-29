@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manikantapmk
-- 👀 I’m interested in Full stack developing...
+- 👀 I’m interested in Full stack web developing...
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate with developers
 - any one want collab contact mail: yadalapurapu.manikanta93@gmail.com
